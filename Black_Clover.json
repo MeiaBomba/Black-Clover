@@ -46,20 +46,28 @@
       "volume": "01"
     },
     "006": {
-      "title": "Vamos à Primeira Missão",
-      "last_updated": "1783909151",
+      "title": "Vamos à Primeira Missão - REWORK",
+      "last_updated": "1784140324",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/ljyqp5mbn72"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/a846nqdzzyx"
       },
       "volume": "01"
     },
     "007": {
-      "title": "Animal  Selvagem",
-      "last_updated": "1783909151",
+      "title": "Animal  Selvagem - REWORK",
+      "last_updated": "1784140320",
       "groups": {
-        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/vj4jpn5zx48"
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/bp45vjqeny5"
       },
       "volume": "01"
+    },
+    "008": {
+      "title": "Aqueles que Protegem - REWORK",
+      "last_updated": "1784140331",
+      "groups": {
+        "Meia-Bomba Scanlator": "/proxy/api/imgchest/chapter/m9yxp53lp4q"
+      },
+      "volume": "02"
     }
   }
 }
